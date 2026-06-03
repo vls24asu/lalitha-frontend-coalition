@@ -1,4 +1,4 @@
-# Tech.Care — Patient Dashboard (Coalition Tech Skills Test)
+# Tech.Care : Patient Dashboard (Coalition Tech Skills Test)
 
 Single-page React app that fetches and renders patient data for Jessica Taylor from the Coalition Technologies Patient Data API.
 
